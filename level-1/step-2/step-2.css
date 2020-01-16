@@ -17,8 +17,8 @@
 .profile-image-container {
     background: #96F0F2;
     width:auto;
-    height:650px
-    margin-bottom:75px
+    height:300px;
+    margin-bottom: 75px;
 }
 
 /* Step-2 One option to get the container to fill the parent container is to use width: auto; */

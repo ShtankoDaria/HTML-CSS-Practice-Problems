@@ -10,7 +10,7 @@
     float: left;
     width: 34%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: 100px;
+    height: 800px;
     background: #565555;
 }
 
@@ -21,15 +21,15 @@
     float: right;
     width: 66%;
     /* This height is a placeholder. You will need to make some adjustments to get this container to look like the design. */
-    height: 100px;
+    height: 800px;
     background: #B0B0B0;
 }
 
 /* Use float to get this container to the bottom of the screen  */
 
 .footer {
+    clear: both;
     width: 100%;
-    float: both;
     height: 100px;
     background: #3A3A3A;
 }

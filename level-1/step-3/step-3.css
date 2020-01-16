@@ -6,14 +6,20 @@
 
 .content-mid-header {
   background: #444;
-  widows: 1090px;
+  width: 825px;
   height:75px;
 }
 
 .content-container {
-
+width: 825px;
+height: 800px;
 }
 
 .content {
   background: #D8D8D8;
+  padding: 20px 20px 20px 20px;
+  width: 825px;
+  height: 500px;
+  text-align: center;
+
 }
